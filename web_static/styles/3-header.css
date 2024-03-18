@@ -5,7 +5,9 @@ header{
 	border-bottom: 1px #CCCCCC
 }
 
-logo{
-	float: left;
-	text-align: center;
+header .logo{
+	width: 128px;
+	height: 60px;
+	background: url("../images/logo.png");
+	padding-left: 20px;
 }
